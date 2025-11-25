@@ -18,111 +18,49 @@ redirect_from:
 # About Me
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Li (Shawn) Li, a PhD student at Thomas Lord Department of Computer Science, **University of Southern California**, supervised by Prof. [Yue Zhao](https://scholar.google.com/citations?user=zoGDYsoAAAAJ&hl=en).
+Hi! I am Surjo, a final year student at Department of Computer Science, **Rajiv Gandhi Institute of Petroleum Technology**.
 
-Before my PhD study in the USA, I spent wonderful years in Singapore and cooperated with great professors. I served as a research associate at **Nanyang Technological University**, working with Prof. [Aixin Sun](https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl=zh-CN). I earned my Master's degree from **National University of Singapore** in 2024, where I contributed as a research intern under the guidance of Prof. [Tat-Seng Chua](https://scholar.google.com/citations?user=Z9DWCBEAAAAJ&hl=zh-CN&oi=ao) and Prof. [Roger Zimmermann](https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=zh-CN&oi=ao). Prior to that, I successfully completed my Bachelor's degree at **TongJi University**, China in 2022.
-My research interests are centered around multimodal learning, Out-of-Distribution detection, and information retrieval.
+Before my Undergrade study in India, I complete my Secondary and Higher Secondary education from Bangladesh. During my bachelor’s degree, I worked with Prof. [Susham Biswas](https://scholar.google.com/citations?user=l1T71wcAAAAJ&hl=en) on a research project focused on structural deformation identification and analysis using machine learning. I also served as a research intern under the guidance of Assistant Prof. [A F M Shahab Uddin](https://scholar.google.com/citations?user=Ckkj9gQAAAAJ&hl=en) at **Jashore University of Science and Technology**, Jashore, Bangladesh where I worked on medical image augmentation. I am currently working with Dr. [Pallabi Saikia](https://scholar.google.com/citations?user=JmNyqQUAAAAJ&hl=en) on Theoretical and Computational Analysis of Convergence and Explainability in Diffusion-Based Generative Models for Vision AI.
 
-# News
-<span class='anchor' id='news'></span>
-
-**2025.09 -** I am awarded the [Amazon PhD Fellowship (2025–2026)](https://trustedai.usc.edu/about).
-
-**2025.08 -** Our paper "Treble Counterfactual VLMs: A Causal Approach to Hallucination" is accepted as a Findings paper by EMNLP 2025.
-
-**2025.06 -** Our paper "Secure On-Device Video OOD Detection Without Backpropagation" is accepted by ICCV 2025.
-
-**2025.05 -** I will join Adobe as a Research Scientist Intern this summer 2025. Hope to have a great summer life in San Jose!
-
-**2025.02 -** Our paper "DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection" is accepted as a Highlight Paper by the CVPR 2025.
-
-**2024.11 -** Our paper "Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration" is accepted by ACM Transactions on Multimedia Computing Communications and Applications.
-
-**2024.08.22 -** Start my PhD journey at USC.
-
-**2024.07.31 -** My last day at S-Lab NTU and in Singapore.
-
-**2024.02 -** Start to working as a research associate at S-Lab NTU.
 
 
 # Work Experiences
 <span class='anchor' id='work-experiences'></span>
-<b>Research Assistant, FORTIS, USC. </b>
+<b>Undergraduate Research Assistant, RGIPT. </b>
 
 <div style="text-align: right;">
-<b>08/2024-present</b>
+<b>09/2025-Present</b>
 <br/>
-Prof. Yue Zhao
+Dr. Pallabi Saikia
 </div>
 
 ---
 
 <span class='anchor' id='work-experiences'></span>
-<b>Research Scientist Intern, Adobe Research. </b>
+<b>Research Intern, VMI Lab, JUST. </b>
 
 <div style="text-align: right;">
-<b>05/2025-08/2025</b>
+<b>02/2025-08/2025</b>
 <br/>
-San Jose, CA
-</div>
-
-
-<!-- Mainly focus on multimodal understanding and information retrieval. -->
-
----
-<b>Research Associate, S-Lab, NTU. </b>
-
-<div style="text-align: right;">
-<b>02/2024-08/2024</b>
-<br/>
-Prof. Aixin Sun
+Associate Prof. Susham Biswas
 </div>
 
 
 
-<!-- Mainly focus on multimodal understanding and information retrieval. -->
 
----
-
-
-<b>Research Intern, NExT++, NUS.  </b>
-         
-<div style="text-align: right;">
-<b>06/2022-02/2024</b>
-<br/>
-Prof. Tat-Seng Chua
-</div>
-
-
-
-<!-- Mainly focus on multimodal fusion and understanding. -->
-
----
-
-<!-- <b>Research Intern, School of Software Engineering, TongJi University.</b>
-
-<div style="text-align: right;">
-<b>08/2020-06/2022</b>
-<br/>
-Prof. Yan Liu
-</div> -->
-
-
-
-<!-- Mainly focus on neural code search and neural code completion. -->
          
 
 
 # Selected Publications
 <span class='anchor' id='publications'></span>
-please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL4cAAAAJ&hl=zh-CN) page to check all my publications. (* Equal Contribution)
+please refer to [google scholar](https://scholar.google.com/citations?user=FibXAB4AAAAJ&hl=en) page to check all my publications.
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2505.14106" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations</span> 
-      <br><b>Li Li</b>, Peilin Cai, Ryan A. Rossi, Franck Dernoncourt, Branislav Kveton, Junda Wu, Tong Yu, Linxin Song, Tiankai Yang, Yuehan Qin, Nesreen K. Ahmed, Samyadeep Basu, Subhojyoti Mukherjee, Ruiyi Zhang, Zhengmian Hu, Bo Ni, Yuxiao Zhou, Zichao Wang, Yue Huang, Yu Wang, Xiangliang Zhang, Philip S. Yu, Xiyang Hu, Yue Zhao
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2501.06457"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Automated detection and analysis of minor deformations in flat walls due to railway vibrations using LiDAR and machine learning</span> 
+      <br><b>Li Li</b>, Surjo Dey, Ankit Sharma, Hritu Raj, Susham Biswas
     <br>Preprint&nbsp;&nbsp; 
   </td> 
   </tr>
@@ -130,140 +68,15 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
 </table>
 
 
-<!-- <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2504.06438" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Don’t Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning</span> 
-      <br>Yuehan Qin, <b>Li Li</b>, Yi Nian, Xinyan Velocity Yu, Yue Zhao, Xuezhe Ma
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
-
--->
-
-
 
 
 <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.06169" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Treble Counterfactual VLMs: A Causal Approach to Hallucination</span> 
-      <br><b>Li Li</b>, Jiashu Qu, Yuxiao Zhou, Yuehan Qin, Tiankai Yang, Yue Zhao
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://ieeexplore.ieee.org/document/10874119?denied=" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Comprehensive Analysis of Structural Defects in Various Structures Using TLS Data and Machine Learning</span> 
+      <br><b>Li Li</b>, Surjo Dey, Ankit Sharma, Hritu Raj, Susham Biswas
     <br>EMNLP 2025 Findings&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
-
-<!-- <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2504.03770" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model</span> 
-      <br>Yi Nian, Shenzhe Zhu, Yuehan Qin, <b>Li Li</b>, Ziyi Wang, Chaowei Xiao, Yue Zhao
-    <br>COLM 2025&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>  -->
-
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.06166" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Secure On-Device Video OOD Detection Without Backpropagation</span> 
-      <br><b>Li Li</b>, Peilin Cai, Yuxiao Zhou, Zhiyu Ni, Renjie Liang, You Qin, Yi Nian, Zhengzhong Tu, Xiyang Hu, Yue Zhao
-    <br>ICCV 2025&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
-
-<!-- <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2503.11892" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representation Learning</span> 
-      <br>Chengxuan Qian, Shuo Xing, <b>Li Li</b>, Yue Zhao, Zhengzhong Tu
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
-
-
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2411.13578" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">COOD: Concept-based Zero-shot OOD Detection</span> 
-      <br>Zhendong Liu*, Yi Nian*, Henry Peng Zou, <b>Li Li</b>, Xiyang Hu, Yue Zhao
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
-
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2407.06597" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">TVR-Ranking: A Dataset for Ranked Video Moment Retrieval with Imprecise Queries</span> 
-      <br>Renjie Liang, <b>Li Li</b>, Chongzhi Zhang, Jing Wang, Xizhou Zhu, Aixin Sun
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table> -->
-
-
-<!-- <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2308.09412.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Causal SAR ATR with Limited Data via Dual Invariance</span> 
-      <br>Chenwei Wang, You Qin, <b>Li Li</b>, Siyi Luo, Yulin Huang, Jifang Pei, Yin Zhang, Jianyu Yang
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table> -->
-
-<!-- <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2308.03725.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation</span> 
-      <br>Renjie Liang, Yiming Yang, Hui Lu, <b>Li Li</b>
-    <br>Preprint&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table> -->
-
-<!-- <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2412.11142" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">AD-LLM: Benchmarking Large Language Models for Anomaly Detection</span> 
-      <br>Tiankai Yang*, Yi Nian*, <b>Li Li</b>, Ruiyao Xu, Yuangang Li, Jiaqi Li, Zhuo Xiao, Xiyang Hu, Ryan Rossi, Kaize Ding, Xia Hu, Yue Zhao
-    <br>ACL 2025 Findings&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table> -->
-
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection</span> 
-      <br><b>Li Li</b>, Huixian Gong, Hao Dong, Tiankai Yang, Zhengzhong Tu, Yue Zhao
-    <br>CVPR 2025 <span style="color: red">(Highlight)</span>&nbsp;&nbsp; | &nbsp;&nbsp; Uncertainty Quantification for Computer Vision @ CVPR
   </td> 
   </tr>
  </tbody>
@@ -293,139 +106,35 @@ please refer to [google scholar](https://scholar.google.com/citations?user=r4kIL
  </tbody>
 </table> -->
 
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://dl.acm.org/doi/abs/10.1145/3706422" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration</span> 
-      <br><b>Li Li</b>*, Wei Ji*, Zheqi Lv*, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann
-    <br>ACM Transactions on Multimedia Computing Communications and Applications&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
 
-<!-- <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://dl.acm.org/doi/abs/10.1145/3701733" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Towards Complex-query Referring Image Segmentation: A Novel Benchmark</span> 
-      <br>Wei Ji, <b>Li Li</b>, Hao Fei, Xiangyan Liu, Xun Yang, Juncheng Li, Roger Zimmermann
-    <br>ACM Transactions on Multimedia Computing Communications and Applications &nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table> -->
 
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://ojs.aaai.org/index.php/AAAI/article/download/28098/28201" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Panoptic Scene Graph Generation with Semantics-prototype Learning</span> 
-      <br><b>Li Li</b>, Wei Ji, Yiming Wu, Mengze Li, You Qin, Lina Wei, Roger Zimmermann
-    <br>AAAI 2024&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
-
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447193" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Domain-wise Invariant Learning for Panoptic Scene Graph Generation</span> 
-      <br><b>Li Li</b>, You Qin, Wei Ji, Yuxiao Zhou, Roger Zimmermann
-    <br>ICASSP 2024&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
-
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611847" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Biased-Predicate Annotation Identification via Unbiased Visual Predicate Representation</span> 
-      <br><b>Li Li</b>*, Chenwei Wang*, You Qin, Wei Ji, Renjie Liang
-    <br>ACM MM 2023&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
-
-<!-- <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/407106f4b56040b2e8dcad75a6e461e5-Paper-Conference.pdf" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">VPGTrans: Transfer Visual Prompt Generator across LLMs</span> 
-      <br>Ao Zhang, Hao Fei, Yuan Yao, Wei Ji, <b>Li Li</b>, Zhiyuan Liu, Tat-Seng Chua
-    <br>NeurIPS 2023&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table> -->
-
-<table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
-  <tbody>
-  <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9793971" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">On the Importance of Building High-quality Training Datasets for Neural Code Search</span> 
-      <br>Zhensu Sun, <b>Li Li</b>, Yan Liu, Xiaoning Du, Li Li
-    <br>ICSE 2022, <span style="color: red">Nominated for ACM SIGSOFT Distinguished Paper Award</span>&nbsp;&nbsp; 
-  </td> 
-  </tr>
- </tbody>
-</table>
 
 
 # Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
-Amazon PhD Fellowship 2025-2026.
+Presented a paper at 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS) at Sydney, Australia. (Presented Virtually)
 
-Capital One Fellowship 2024-2025.
+Presented a paper at the 15th International IEEE Conference on Computing, Communication, and Networking Technologies (ICCCNT)at Mandi, India
 
-ICSE 2022 Distinguished Paper Award Nomination.
-
-AAAI 2024 Student Scholarship.
 
 # Services
 <span class='anchor' id='services'></span>
-Program Committee Member of CVPR (2026). AAAI (2026), ICML (2025), ICLR (2025, 2026), ICCV (2025), COLM (2025), ICASSP (2025), KDD (2025, 2026), IJCNN (2025), ACM MM (2024), ECCV (2024), ACL ARR (2024, 2025).
 
-Journal Reviewer for IEEE Transactions on Neural Networks and Learning Systems.
+Reviewer for IEEE 2nd INTERNATIONAL CONFERENCE ON COMPUTING, APPLICATIONS AND SYSTEMS (COMPAS 2025)
 
-Journal Reviewer for IEEE Transactions on Multimedia.
+Reviewer for 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing.
 
-Journal Reviewer for IEEE Transactions on Circuits and Systems for Video Technology.
-
-Student Volunteer at ACM Web Conference (2024).
 
 # Educations
 <span class='anchor' id='educations'></span>
-  08/2024 - present
+  2022 - present
 
-  Doctor of Philosophy in Computer Science
+  B.Tech at Computer Science and Engineering
 
-  University of Southern California, USA
-
-
-  ---
+  Rajiv Gandhi Institute of Petroleum Technology, India
 
 
-  2022.08 - 2024.02
-
-  Master of Science in Industry 4.0
-
-  National University of Singapore, Singapore
-
-
-  ---
-  
-  2018.08 - 2022.06
-
-  Bachelor of Engineering in Software Engineering
-
-  TongJi University, China
+ 
 
 <!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MtgOD5bYVhrJl1tzX74CbRhUUslEFdbq-StiPxMz5Ts&cl=ffffff&w=a"></script> -->
 
