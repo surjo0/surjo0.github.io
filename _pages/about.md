@@ -40,13 +40,22 @@ Dr. Pallabi Saikia
 <b>Research Intern, VMI Lab, JUST. </b>
 
 <div style="text-align: right;">
-<b>02/2025-08/2025</b>
+<b>06/2025-08/2025</b>
+<br/>
+Assistant Prof. A F M Shahab Uddin
+</div>
+
+---
+
+
+<span class='anchor' id='work-experiences'></span>
+<b>Undergraduate Research Assistant, RGIPT. </b>
+
+<div style="text-align: right;">
+<b>02/2024-04/2025</b>
 <br/>
 Associate Prof. Susham Biswas
 </div>
-
-
-
 
          
 
