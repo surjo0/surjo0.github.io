@@ -28,7 +28,7 @@ Before my Undergrade study in India, I complete my Secondary and Higher Secondar
 
 Paper submitted at 3rd World Congress on Smart Computing (WCSC2026)
 
-paper unde review at Biomedical Signal Processing and Control (BSPC) Journal
+paper under review at Biomedical Signal Processing and Control (BSPC) Journal
 
 
 
