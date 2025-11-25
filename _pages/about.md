@@ -23,6 +23,14 @@ Hi! I am Surjo, a final year student at Department of Computer Science, **Rajiv 
 Before my Undergrade study in India, I complete my Secondary and Higher Secondary education from Bangladesh. During my bachelor’s degree, I worked with Prof. [Susham Biswas](https://scholar.google.com/citations?user=l1T71wcAAAAJ&hl=en) on a research project focused on structural deformation identification and analysis using machine learning. I also served as a research intern under the guidance of Assistant Prof. [A F M Shahab Uddin](https://scholar.google.com/citations?user=Ckkj9gQAAAAJ&hl=en) at **Jashore University of Science and Technology**, Jashore, Bangladesh where I worked on medical image augmentation. I am currently working with Dr. [Pallabi Saikia](https://scholar.google.com/citations?user=JmNyqQUAAAAJ&hl=en) on Theoretical and Computational Analysis of Convergence and Explainability in Diffusion-Based Generative Models for Vision AI.
 
 
+# News
+<span class='anchor' id='news'></span>
+
+Paper submitted at 3rd World Congress on Smart Computing (WCSC2026)
+
+paper unde review at Biomedical Signal Processing and Control (BSPC) Journal
+
+
 
 # Work Experiences
 <span class='anchor' id='work-experiences'></span>
