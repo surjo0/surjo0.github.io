@@ -93,7 +93,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=FibXA
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://ieeexplore.ieee.org/document/10874119?denied=" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Comprehensive Analysis of Structural Defects in Various Structures Using TLS Data and Machine Learning</span> 
       <br><b>Surjo Dey</b>, Ankit Sharma, Hritu Raj, Susham Biswas
-    <br>EMNLP 2025 Findings&nbsp;&nbsp; 
+    <br>IEEE Xplore&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
@@ -131,7 +131,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=FibXA
 <span class='anchor' id='honors-and-awards'></span>
 Presented a paper at 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS) at Sydney, Australia. (Presented Virtually)
 
-Presented a paper at the 15th International IEEE Conference on Computing, Communication, and Networking Technologies (ICCCNT)at Mandi, India
+Presented a paper at the 15th International IEEE Conference on Computing, Communication, and Networking Technologies (ICCCNT) at Mandi, India
 
 
 
