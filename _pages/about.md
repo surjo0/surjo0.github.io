@@ -78,7 +78,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=FibXA
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/pdf/2501.06457"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Automated detection and analysis of minor deformations in flat walls due to railway vibrations using LiDAR and machine learning</span> 
       <br><b>Surjo Dey</b>, Ankit Sharma, Hritu Raj, Susham Biswas
-    <br>Preprint&nbsp;&nbsp; 
+    <br>15th International IEEE Conference on Computing, Communication, and Networking Technologies (ICCCNT)&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
@@ -93,7 +93,7 @@ please refer to [google scholar](https://scholar.google.com/citations?user=FibXA
     <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://ieeexplore.ieee.org/document/10874119?denied=" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
     <td><span class="title" style="FONT-WEIGHT: bold">Comprehensive Analysis of Structural Defects in Various Structures Using TLS Data and Machine Learning</span> 
       <br><b>Surjo Dey</b>, Ankit Sharma, Hritu Raj, Susham Biswas
-    <br>IEEE Xplore&nbsp;&nbsp; 
+    <br>2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS)&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
