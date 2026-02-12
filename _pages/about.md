@@ -20,7 +20,7 @@ redirect_from:
 
 Hi! I am Surjo, a final year student at Department of Computer Science, **Rajiv Gandhi Institute of Petroleum Technology**.
 
-Before my Undergrade study in India, I complete my Secondary and Higher Secondary education from Bangladesh. During my bachelor’s degree, I worked with Prof. [Susham Biswas](https://scholar.google.com/citations?user=l1T71wcAAAAJ&hl=en) on a research project focused on structural deformation identification and analysis using machine learning. I also served as a research intern under the guidance of Assistant Prof. [A F M Shahab Uddin](https://scholar.google.com/citations?user=Ckkj9gQAAAAJ&hl=en) at **Jashore University of Science and Technology**, Jashore, Bangladesh where I worked on medical image augmentation. I am currently working with Dr. [Pallabi Saikia](https://scholar.google.com/citations?user=JmNyqQUAAAAJ&hl=en) on Theoretical and Computational Analysis of Convergence and Explainability in Diffusion-Based Generative Models for Vision AI.
+Before my Undergrade study in India, I complete my Secondary and Higher Secondary education from Bangladesh. During my bachelor’s degree, I worked with Prof. [Susham Biswas](https://scholar.google.com/citations?user=l1T71wcAAAAJ&hl=en) on a research project focused on structural deformation identification and analysis using machine learning. I am currently working with Dr. [Pallabi Saikia](https://scholar.google.com/citations?user=JmNyqQUAAAAJ&hl=en) on Theoretical and Computational Analysis of Convergence and Explainability in Diffusion-Based Generative Models for Vision AI.
 
 
 # News
@@ -99,17 +99,17 @@ please refer to [google scholar](https://scholar.google.com/citations?user=FibXA
  </tbody>
 </table>
 
-<!-- <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
+ <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
   <tr>
-    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://openreview.net/forum?id=qdOIkeZ5e4&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
-    <td><span class="title" style="FONT-WEIGHT: bold">Generalized Video Moment Retrieval</span> 
-      <br>You Qin, Qilong Wu, Yicong Li, Wei Ji, <b>Li Li</b>, Pengcheng Cai, Lina Wei, Roger Zimmermann 
-    <br>ICLR 2025&nbsp;&nbsp; 
+    <td class="left" style="FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 60px; BACKGROUND-COLOR: #e2eff9"><a href="https://arxiv.org/abs/2602.09781" target="_blank"><img src="./images/pdf.png" width="100" height="100"></a></td>
+    <td><span class="title" style="FONT-WEIGHT: bold">Explainability in Generative Medical Diffusion Models: A Faithfulness-Based Analysis on MRI Synthesis</span> 
+      <br> <b>Surjo Dey</b>, Pallabi Saikia 
+    <br>3rd World Congress on Smart Computing (WCSC2026)&nbsp;&nbsp; 
   </td> 
   </tr>
  </tbody>
-</table> -->
+</table> 
 
 <!-- <table style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 98%; BACKGROUND-COLOR: #f6fbfe">
   <tbody>
