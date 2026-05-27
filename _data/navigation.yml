@@ -22,6 +22,9 @@ main:
   - title: "Educations"
     url: "/#educations"
 
+  - title: "Resume"
+    url: "/assets/resume.pdf"
+
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
