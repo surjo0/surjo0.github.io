@@ -23,24 +23,24 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Surjo Dey"
   avatar           : "images/IMG_8082~2.jpg"
-  bio              : "Final Year B.Tech CSE Student | Aspiring Computer Vision Researcher"
-  location         : "India"
+  bio              : "Computer Vision Researcher | Aspiring Graduate Research Assistant"
+  location         : "India, Bangladesh"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FibXAB4AAAAJ&hl=en"
-  email            : "22cs3072@gmail.com"
+  email            : "surjodey.cs@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/surjo.dey.0/"
   foursquare       :
   github           : "surjo0"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/_surjo/"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/surjo-dey/"
