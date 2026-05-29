@@ -150,7 +150,7 @@ Reviewer for 2026 IEEE International Conference on Acoustics, Speech, and Signal
 
 # Educations
 <span class='anchor' id='educations'></span>
-  2022 - present
+  2022 - 2026
 
   B.Tech at Computer Science and Engineering
 
