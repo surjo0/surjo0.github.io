@@ -145,6 +145,7 @@ Reviewer for IEEE 2nd INTERNATIONAL CONFERENCE ON COMPUTING, APPLICATIONS AND SY
 
 Reviewer for 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing.
 
+Reviewer for The 6th International Conference on Electrical, Computer and Energy Technologies (ICECET)
 
 
 
