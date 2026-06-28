@@ -30,7 +30,7 @@ Currently, I am working on Vision-Language Models under the supervision of Dr. [
 
 Paper Under Review at **NeurIPS 2026**
 
-Paper Accepted at 3rd World Congress on Smart Computing (WCSC2026)
+2 Paper submitted at **WACV 2027**
 
 
 
