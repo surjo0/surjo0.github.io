@@ -4,10 +4,24 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          {%- assign homepage_path = '/' | relative_url -%}
+
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+            {% if page.url == '/' %}
+              <a href="#about-me">Homepage</a>
+            {% else %}
+              <a href="{{ homepage_path }}#about-me">Homepage</a>
+            {% endif %}
+          </li>
+
           {% for link in site.data.navigation.main %}
             {% if link.url contains '#' %}
-              <li class="masthead__menu-item"><a href="#{{ link.url | split: '#' | last }}">{{ link.title }}</a></li>
+              {% assign anchor = link.url | split: '#' | last %}
+              {% if page.url == '/' %}
+                <li class="masthead__menu-item"><a href="#{{ anchor }}">{{ link.title }}</a></li>
+              {% else %}
+                <li class="masthead__menu-item"><a href="{{ homepage_path }}#{{ anchor }}">{{ link.title }}</a></li>
+              {% endif %}
             {% else %}
               <li class="masthead__menu-item"><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
             {% endif %}
