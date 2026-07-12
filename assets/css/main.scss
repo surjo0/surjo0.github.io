@@ -152,8 +152,13 @@ h1:before, .anchor:before {
 }
 
 code {
-    color: #2196F3;
-    background-color: transparent;
+    color: #2196F3 !important;
+    background-color: transparent !important;
     padding: 0.2em 0.4em;
     border-radius: 3px;
+}
+
+/* Override for highlighted code blocks */
+.highlight code {
+    color: inherit !important;
 }
