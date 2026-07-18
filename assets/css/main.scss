@@ -40,49 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.school-box {
-    display: flex;
-    justify-content: left;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px hsl(0, 0%, 94%) solid;
-    padding: 0.75em 0 0.75em 0;
-    .school-box-image{
-        justify-content: center;
-        display: flex;
-        width: 100%;
-        order: 2;
-        img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
-    }
-    
-    .school-box-text{
-        max-width: 100%;
-        order: 1;
-    }
-    
-    @include breakpoint($medium) {
-        .school-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
-        
-        .school-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
-
-    }
-}
-
 .paper-box {
     display: flex;
     justify-content: left;
@@ -149,16 +106,4 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
-}
-
-code {
-    color: #2196F3 !important;
-    background-color: transparent !important;
-    padding: 0.2em 0.4em;
-    border-radius: 3px;
-}
-
-/* Override for highlighted code blocks */
-.highlight code {
-    color: inherit !important;
 }
