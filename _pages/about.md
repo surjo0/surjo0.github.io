@@ -15,6 +15,4 @@ redirect_from:
 
 {% include pub.md %}
 
-{% include honers.md %}
-
 {% include others.md %}
