@@ -12,7 +12,7 @@ Aryan Das, **Surjo Dey**, Koushik Biswas, Swalpa Kumar Roy, Moloud Abdar, Arnab 
 
 
 - Proposed **SALD (Self-Referenced Advantage Learning for Diffusion Models)**, a training framework that improves image generation by comparing predictions at different noise levels using a shared model, without requiring an external teacher network.
-- Developed **Advantage-Guided Diffusion (AGD)**, **Temporal Advantage Memory (TAM)**, and **Spectral Advantage Decomposition (SAD)** to adapt training objectives based on relative prediction difficulty, temporal dynamics, and frequency-aware latent weighting.
+- Code will be released soon....
 </div>
 </div>
 
