@@ -14,6 +14,7 @@
 <span class='anchor' id='work-experiences'></span>
 
 # 💻 Research Experience 
-- *2026.03 - Present*, Research Fellow, **Tezpur University**, Assam, India
+- *2026.11 - Present*, Research Fellow, **i3 Research Lab, Harvard Medical School**, Boston, USA 
+- *2026.03 - 2026.10*, Research Fellow, **Tezpur University**, Assam, India
 - *2025.06 - 2025.09*, Research Intern, **Jashore University of Science and Technology**, Jashore, Bangladesh
 
