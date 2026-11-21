@@ -4,7 +4,7 @@
 
 please refer to [Google Scholar](https://scholar.google.com/citations?user=FibXAB4AAAAJ&hl=en) page to check all my publications.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027 (Submitted)</div><img src='images/SALD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027</div><img src='images/SALD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SALD:Self-Referenced Advantage Learning for Diffusion Models](https://arxiv.org/pdf/2610.01496) \\
